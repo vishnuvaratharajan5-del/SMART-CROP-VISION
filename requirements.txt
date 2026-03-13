@@ -1,0 +1,19 @@
+streamlit==1.35.0
+tensorflow==2.16.1
+keras==3.2.0
+numpy==1.26.4
+pillow==10.3.0
+matplotlib==3.9.0
+opencv-python==4.9.0.80
+scikit-learn==1.5.0
+
+Why These Are Needed
+Library 	Purpose
+streamlit	Runs the web app interface in the browser
+tensorflow	Main deep learning framework (includes Keras)
+keras	        High-level API for model building & training
+numpy	        For numerical computations
+pillow	        Image processing (loading & resizing images)
+matplotlib	Optional – for plotting training graphs
+opencv-python	Optional – advanced image preprocessing
+scikit-learn	Optional – for evaluation metrics & preprocessing
